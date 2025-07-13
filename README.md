@@ -1,2 +1,2 @@
-# Circuit_Simulation
-I WANT TO DO MAGIC
+# Chsaer Circuit
+Primarily uses CD4017 IC and IC 555 timer 
